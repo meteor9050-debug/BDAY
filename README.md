@@ -1,9 +1,9 @@
-# Kirtee's 48th Birthday Website
+# Aunty's 48th Birthday Website
 
-A responsive birthday website for Kirtee, born September 24, 1978.
+A responsive birthday website for Aunty, born September 24, 1978.
 
 ## Publish free with GitHub Pages
-1. Create a new public GitHub repository, for example `kirtee-birthday`.
+1. Create a new public GitHub repository, for example `Aunty-birthday`.
 2. Upload every file and the `images` folder from this project.
 3. Open repository Settings, then Pages.
 4. Under Build and deployment, choose `Deploy from a branch`.
